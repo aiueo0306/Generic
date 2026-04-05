@@ -27,20 +27,20 @@ from browser_utils import click_button_in_order
 from browser_utils import click_button_in_order
 
 # ===== 固定情報（学会サイト） =====
-BASE_URL = "https://www.mhlw.go.jp/stf/shingi-yakuji_39225.html"
-GAKKAI = "薬事審議会（医薬品等安全対策部会（安全対策調査会））"
+BASE_URL = "https://www.jga.gr.jp/"
+GAKKAI = "日本ジェネリック協会"
 
-SELECTOR_TITLE = "table.m-tableFlex tr"
-title_selector = ""
+SELECTOR_TITLE = "ul.c-news-nav__list"
+title_selector = "li"
 title_index = 0
 href_selector = "a"
-href_index = 1
-SELECTOR_DATE = "table.m-tableFlex tr"
-date_selector = ""
+href_index = 0
+SELECTOR_DATE = "ul.c-news-nav__list"
+date_selector = "time"
 date_index = 0
-year_unit = "年"
-month_unit = "月"
-day_unit = "日"
+year_unit = "."
+month_unit = "."
+day_unit = ""
 date_format = f"%Y{year_unit}%m{month_unit}%d{day_unit}"
 date_regex = rf"(\d{{2,4}}){year_unit}(\d{{1,2}}){month_unit}(\d{{1,2}}){day_unit}"
 
