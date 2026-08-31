@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 31 Aug 2026 03:41:45 +0000</lastBuildDate><item><title>【日本ジェネリック協会】【2026-08-31】2026.08.31
-                        発表資料
-                        ジェネリック医薬品産業ビジョン2035を公表しました</title><link>https://www.jga.gr.jp/new-industry-vision.html</link><description>2026.08.31
-                        発表資料
-                        ジェネリック医薬品産業ビジョン2035を公表しました</description><guid isPermaLink="false">https://www.jga.gr.jp/new-industry-vision.html#20260831</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate></item><item><title>【日本ジェネリック協会】【2026-08-31】2026.08.31
-                        発表資料
-                        ジェネリック医薬品産業ビジョン2035を公表しました</title><link>https://www.jga.gr.jp/new-industry-vision.html</link><description>2026.08.31
-                        発表資料
-                        ジェネリック医薬品産業ビジョン2035を公表しました</description><guid isPermaLink="false">https://www.jga.gr.jp/new-industry-vision.html#20260831</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate></item><item><title>【日本ジェネリック協会】【2026-08-31】2026.08.31
-                        発表資料
-                        ジェネリック医薬品産業ビジョン2035を公表しました</title><link>https://www.jga.gr.jp/new-industry-vision.html</link><description>2026.08.31
-                        発表資料
-                        ジェネリック医薬品産業ビジョン2035を公表しました</description><guid isPermaLink="false">https://www.jga.gr.jp/new-industry-vision.html#20260831</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 31 Aug 2026 10:32:05 +0000</lastBuildDate><item><title>【日本ジェネリック協会】【2026-08-31】2026.08.31
+                        トピックス
+                        JGAニュース8月号全体版PDFを発刊しました</title><link>https://www.jga.gr.jp/information/jga-news/2026/220.html</link><description>2026.08.31
+                        トピックス
+                        JGAニュース8月号全体版PDFを発刊しました</description><guid isPermaLink="false">https://www.jga.gr.jp/information/jga-news/2026/220.html#20260831</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate></item><item><title>【日本ジェネリック協会】【2026-08-31】2026.08.31
+                        トピックス
+                        JGAニュース8月号全体版PDFを発刊しました</title><link>https://www.jga.gr.jp/information/jga-news/2026/220.html</link><description>2026.08.31
+                        トピックス
+                        JGAニュース8月号全体版PDFを発刊しました</description><guid isPermaLink="false">https://www.jga.gr.jp/information/jga-news/2026/220.html#20260831</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate></item><item><title>【日本ジェネリック協会】【2026-08-31】2026.08.31
+                        トピックス
+                        JGAニュース8月号全体版PDFを発刊しました</title><link>https://www.jga.gr.jp/information/jga-news/2026/220.html</link><description>2026.08.31
+                        トピックス
+                        JGAニュース8月号全体版PDFを発刊しました</description><guid isPermaLink="false">https://www.jga.gr.jp/information/jga-news/2026/220.html#20260831</guid><pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate></item></channel></rss>
